@@ -10,7 +10,7 @@ I've been learning code for 2 year, I'm studying in Information Technology and E
 
 * 🌍  I'm based in Phnom Penh
 * ✉️  You can contact me at [2820.tan.bunchhay@rupp.edu.kh](mailto:2820.tan.bunchhay@rupp.edu.kh)
-* 🧠  I'm learning Java + JavaFx
+* 🧠  I'm learning Java + JavaFx + MySQL
 * 🤝  I'm open to collaborating on Podcast Project
 * ⚡  I'm in love with Python. Anyway, HTML is the best xD
 
