@@ -7,7 +7,7 @@ Java developer
 I've been learning code for 2 year, I'm studying in Information Technology and Engineering field at Royal University of Phnom Penh.
 
 * 🌍  I'm based in Phnom Penh
-* 🖥️  See my portfolio at [Tan Bunchhay](http://https://tanbunchhay.com/)
+* 🖥️  See my portfolio at [Tan Bunchhay](http://tanbunchhay.com/)
 * ✉️  You can contact me at [2820.tan.bunchhay@rupp.edu.kh](mailto:2820.tan.bunchhay@rupp.edu.kh)
 * 🧠  I'm learning Java + JavaFx + MySQL
 * 🤝  I'm open to collaborating on Akara's Podcast Project
