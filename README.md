@@ -1,4 +1,4 @@
-Hi 👋 My name is Tan Bunchhay
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tan Bunchhay
 =============================
 
 Java developer
@@ -7,6 +7,7 @@ Java developer
 I've been learning code for 2 year, I'm studying in Information Technology and Engineering field at Royal University of Phnom Penh.
 
 * 🌍  I'm based in Phnom Penh
+* 🖥️  See my portfolio at [Tan Bunchhay](http://https://tanbunchhay.com/)
 * ✉️  You can contact me at [2820.tan.bunchhay@rupp.edu.kh](mailto:2820.tan.bunchhay@rupp.edu.kh)
 * 🧠  I'm learning Java + JavaFx + MySQL
 * 🤝  I'm open to collaborating on Akara's Podcast Project
