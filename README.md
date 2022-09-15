@@ -8,7 +8,7 @@ I've been learning code for 2 year, I'm studying in Information Technology and E
 
 * 🌍  I'm based in Phnom Penh
 * 🖥️  See my portfolio at [Tan Bunchhay](http://tanbunchhay.com/)
-* ✉️  You can contact me at [2820.tan.bunchhay@rupp.edu.kh](mailto:2820.tan.bunchhay@rupp.edu.kh)
+* ✉️  You can contact me at [chayswaq@gmail.com](mailto:chayswaq@gmail.com)
 * 🧠  I'm learning Java + JavaFx + MySQL
 * 🤝  I'm open to collaborating on Akara's Podcast Project
 * ⚡  I'm in love with Python. Anyway, HTML is the best xD
