@@ -35,6 +35,7 @@ I am in the level developer with over 2 years of experience in coding. My unique
 
 ### Waka Time
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 ### Badges
