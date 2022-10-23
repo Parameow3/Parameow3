@@ -8,12 +8,10 @@ on:
 
 jobs:
   update-readme:
-    name: README
+    name: Update README
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: ->
-          SHOW_TIME: true
