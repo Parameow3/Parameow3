@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java developer
 --------------
 
-I've been learning code for 2 year, I'm studying in Information Technology and Engineering field at Royal University of Phnom Penh.
+I am in the level developer with over 2 years of experience in coding. My unique experience stems from year of providing excellent team support, strong creative and problem-solving skill.
 
 * 🌍  I'm based in Phnom Penh
 * 🖥️  See my portfolio at [Tan Bunchhay](http://tanbunchhay.com/)
