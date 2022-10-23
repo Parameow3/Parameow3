@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    - cron: '0 7 * * *'
 
 jobs:
   update-readme:
@@ -13,4 +13,9 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE:  Update Wakapi stats
+          BLOCKS: "⬜🟨🟩"
+          TIME_RANGE:  last_7_days
+          SHOW_TIME: true
