@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: README
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
