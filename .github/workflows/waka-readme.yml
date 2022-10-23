@@ -11,7 +11,7 @@ jobs:
     name: Waka - Readme
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v0.1.5
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
