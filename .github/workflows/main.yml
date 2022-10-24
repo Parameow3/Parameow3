@@ -15,3 +15,11 @@ jobs:
         with:
           API_BASE_URL: ${{ Secrets.WAKAPI_BASE_URL }}
           WAKATIME_API_KEY: ${{ Secrets.WAKATIME_API_KEY }}
+          REPOSITORY: Parameow3/Parameow3
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          SHOW_TITLE: false
+          BLOCKS: ░▒▓█
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_TOTAL: false
+          SHOW_MASKED_TIME: false
