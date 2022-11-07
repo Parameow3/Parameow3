@@ -1,3 +1,5 @@
+### Waka Time State
+
 <!--START_SECTION:waka-->
 
 ```text
