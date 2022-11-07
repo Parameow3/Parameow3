@@ -8,6 +8,7 @@ on:
 
 jobs:
   update-readme:
+    permissions: write-all
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
