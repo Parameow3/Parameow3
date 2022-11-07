@@ -1,5 +1,18 @@
 <!--START_SECTION:waka-->
 
+```text
+From: 13 January 2022 - To: 06 November 2022
+
+Total Time: 74 hrs 56 mins
+
+Java             56 hrs 16 mins  >>>>>>>>>>>>>>>>>>>------   75.10 %
+C++              8 hrs 9 mins    >>>----------------------   10.89 %
+HTML             3 hrs 7 mins    >------------------------   04.18 %
+C                2 hrs 49 mins   >------------------------   03.76 %
+Python           1 hr 3 mins     -------------------------   01.41 %
+ObjectiveC       54 mins         -------------------------   01.22 %
+```
+
 <!--END_SECTION:waka-->
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tan Bunchhay
