@@ -1,3 +1,8 @@
+### Waka Time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tan Bunchhay
 =============================
 
@@ -13,10 +18,6 @@ I am in the level developer with over 2 years of experience in coding. My unique
 * 🤝  I'm open to collaborating on Akara's Podcast Project
 * ⚡  I'm in love with Python. Anyway, HTML is the best xD
 
-### Waka Time
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ### Skills
 
