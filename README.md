@@ -49,7 +49,7 @@ I am in the level developer with over 2 years of experience in coding. My unique
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://www.sandbox.game/en/" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/max/1200/1*SGWeeDw3Yv63vLNn20m_hA.png" width="36" height="36" alt="sandbox"></a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab.png" width="36" height="36" alt="Unity"></a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png" height="36" alt="Unity"></a>
 </p>
 
 
