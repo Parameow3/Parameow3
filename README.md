@@ -24,7 +24,7 @@ INI              2 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tan Bunchhay
 =============================
 
-Java developer
+Independent Developer
 --------------
 
 I am in the level developer with over 2 years of experience in coding. My unique experience stems from year of providing excellent team support, strong creative and problem-solving skill.
