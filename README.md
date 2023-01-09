@@ -1,4 +1,4 @@
-### Waka Time State
+### Waka Time Weekly State
 
 <!--START_SECTION:waka-->
 
