@@ -24,3 +24,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "False"
           BLOCKS: "⬜🟨🟩"
+          TIME_RANGE: all_time
