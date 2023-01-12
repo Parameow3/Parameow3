@@ -27,3 +27,4 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: "True"
           SHOW_MASKED_TIME: "True"
+          SHOW_TITLE: "True"
