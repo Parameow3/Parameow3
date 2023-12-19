@@ -1,7 +1,7 @@
 [
  {
    "id": 0,
-   "podcastTitle": "Embracing Your Worth: A Journey to Self-Love",
+   "podcastTitle": "A Journey to Self-Love",
    "podcastDescription": "Explore the transformative journey of self-love as we delve into the process of embracing your inherent worth and developing a positive relationship with yourself.",
    "podcaster": "Rithy Sokun",
    "category": "Health",
@@ -10,7 +10,7 @@
  },
  {
    "id": 1,
-   "podcastTitle": "Love and Acceptance: Nurturing a Positive Relationship with Yourself",
+   "podcastTitle": "Love and Acceptance",
    "podcastDescription": "Discover the power of love and acceptance in nurturing a healthy and positive relationship with yourself. Learn practical strategies for cultivating self-compassion and embracing your authentic self.",
    "podcaster": "Sophea Kim",
    "category": "Personal Growth",
@@ -19,7 +19,7 @@
  },
  {
    "id": 2,
-   "podcastTitle": "The Art of Self-Love: Discovering Your Inner Radiance",
+   "podcastTitle": "The Art of Self-Love",
    "podcastDescription": "Dive into the art of self-love and uncover the beauty within you. Explore practices and techniques that help you tap into your inner radiance and cultivate a deep sense of self-love.",
    "podcaster": "Chantha Yim",
    "category": "Mindfulness",
@@ -28,7 +28,7 @@
  },
  {
    "id": 3,
-   "podcastTitle": "Unleashing Your Inner Power: Cultivating Self-Love for Success",
+   "podcastTitle": "Cultivating Self-Love for Success",
    "podcastDescription": "Unleash your inner power through the practice of self-love. Explore how developing a strong foundation of self-love can empower you to achieve success in various aspects of your life.",
    "podcaster": "Vannarith Lim",
    "category": "Success and Motivation",
@@ -37,7 +37,7 @@
  },
  {
    "id": 4,
-   "podcastTitle": "Healing from Within: Self-Love and Emotional Well-being",
+   "podcastTitle": "Self-Love and Emotional Well-being",
    "podcastDescription": "Discover the profound connection between self-love and emotional well-being. Learn strategies for healing from within, nurturing self-compassion, and fostering emotional resilience.",
    "podcaster": "Sreyneang Chhun",
    "category": "Emotional Well-being",
@@ -46,7 +46,7 @@
  },
  {
    "id": 5,
-   "podcastTitle": "Self-Love in the Digital Age: Navigating Social Media and Building Confidence",
+   "podcastTitle": "Navigating Social Media and Building Confidence",
    "podcastDescription": "Discover the profound connection between self-love and emotional well-being. Learn strategies for healing from within, nurturing self-compassion, and fostering emotional resilience.",
    "podcaster": "Sovanrithy Khim",
    "category": "Social Media",
@@ -55,7 +55,7 @@
  },
  {
    "id": 6,
-   "podcastTitle": "Radical Self-Care: Prioritizing Self-Love in a Hectic World",
+   "podcastTitle": "Prioritizing Self-Love in a Hectic World",
    "podcastDescription": "Dive into the concept of radical self-care and explore ways to prioritize self-love in a fast-paced and demanding world. Discover practical self-care techniques and strategies to support your well-being.",
    "podcaster": "Pich Sovannara",
    "category": "Self-Care",
@@ -64,7 +64,7 @@
  },
  {
    "id": 7,
-   "podcastTitle": "Loving Your Flaws: Embracing Imperfections and Building Self-Esteem",
+   "podcastTitle": "Embracing Imperfections and Building Self-Esteem",
    "podcastDescription": "Embrace your flaws and discover the beauty in imperfections. Explore the journey of building self-esteem by developing self-acceptance and learning to love yourself just as you are.",
    "podcaster": "Sopheap Chea",
    "category": "Body Positivity",
@@ -73,7 +73,7 @@
  },
  {
    "id": 8,
-   "podcastTitle": "Rediscovering Yourself: Self-Love and Personal Growth",
+   "podcastTitle": "Self-Love and Personal Growth",
    "podcastDescription": "Embark on a journey of self-discovery and personal growth through the practice of self-love. Explore techniques and insights that help you reconnect with your authentic self and foster personal development.",
    "podcaster": "Ratha Seng",
    "category": "Self-Discovery",
