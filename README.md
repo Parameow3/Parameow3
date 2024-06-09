@@ -3,9 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2022 - To: 06 June 2024
+From: 13 January 2022 - To: 07 June 2024
 
-Total Time: 476 hrs 2 mins
+Total Time: 476 hrs 3 mins
 
 Java                   165 hrs 54 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.85 %
 HTML                   52 hrs 49 mins  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.10 %
