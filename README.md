@@ -19,6 +19,6 @@ C++                    36 hrs 13 mins  🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=Parameow3&style=for-the-badge"/>
+   <img src="https://komarev.com/ghpvc/?username=Parameow3&style=for-the-badge&label=VISITOR+VIEWS"/>
 </p>
 <hr>
