@@ -20,6 +20,7 @@ C++                    36 hrs 13 mins  🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Parameow3/count.svg" />
+   <a href='http://www.freevisitorcounters.com'>www.freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=761f52a5027eb7686613ed1f1946e3d886573d0e'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1367586/t/9"></script>
 </p>
 <hr>
