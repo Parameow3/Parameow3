@@ -20,6 +20,6 @@ C++                    36 hrs 13 mins  🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 <p align="center"> 
   Visitor count<br>
-   ![](https://komarev.com/ghpvc/?username=Parameow3)
+   <img src="https://komarev.com/ghpvc/?username=Parameow3"/>
 </p>
 <hr>
